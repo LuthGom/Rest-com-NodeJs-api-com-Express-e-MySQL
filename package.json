@@ -26,5 +26,8 @@
     "mysql2": "^2.3.3-rc.0",
     "nodemon": "^2.0.14",
     "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "ws": "3.3.2"
   }
 }

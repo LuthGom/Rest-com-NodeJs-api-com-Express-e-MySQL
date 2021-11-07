@@ -1,4 +1,4 @@
-const customExpress = require('./congif/customExpress')
+const customExpress = require('./config/customExpress')
 const Tabelas = require('./infraestrutura/tabelas')
 const conexao = require('./infraestrutura/conexao')
 conexao.connect(erro => {
